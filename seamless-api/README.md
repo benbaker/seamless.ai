@@ -1,7 +1,7 @@
 # Seamless API
 
 ### Install
-``` npm i ```
+```npm i```
 
 ### Run server
-npm start
+```npm start```
