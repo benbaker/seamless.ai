@@ -5,3 +5,7 @@
 
 ### Run server
 ```npm start```
+
+Runs on localhost:3001 by default.
+
+See config.js
