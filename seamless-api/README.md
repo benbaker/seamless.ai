@@ -1,4 +1,4 @@
-# Seamless UI
+# Seamless API
 
 ### Install
 ``` npm i ```
