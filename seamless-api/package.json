@@ -1,0 +1,14 @@
+{
+  "name": "seamless-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Ben Baker",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cors": "^2.8.4",
+    "express": "^4.15.5",
+    "request": "^2.83.0"
+  }
+}
