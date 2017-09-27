@@ -1,6 +1,9 @@
-# Seamless.AI test project
+# Seamless.AI -- Sample Project
 Runs a custom search against google from user input. 
-Expects companu names.
+- Expects company names.
+- Provides links to company websites.
+
+> Built with Node, Express, React, and Bootstrap. Oh, and love.
 
 ### Install
 - clone this repo
@@ -10,5 +13,6 @@ Expects companu names.
 ### Run
 Start either server: ```npm start```
 
-ui runs on localhost:3000
-api runs on localhost:3001
+The UI runs on localhost:3000
+
+The API runs on localhost:3001
