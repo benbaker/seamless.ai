@@ -1,9 +1,7 @@
 # Seamless UI
 
 ### Install
-``` git clone --- ```
-``` cd --- ```
-``` npm install ```
+```npm i```
 
-### Run
-npm start
+### Run server
+```npm start```
