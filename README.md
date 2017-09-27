@@ -1,4 +1,6 @@
 # Seamless.AI test project
+Runs a custom search against google from user input. 
+Expects companu names.
 
 ### Install
 - clone this repo
